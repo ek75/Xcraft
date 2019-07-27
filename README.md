@@ -15,5 +15,4 @@ GameGuardian apk для импорта в BlueStacks
 LuckyPatcher apk для импорта в BlueStacks
 <a href="https://bitbucket.org/ke75/mybrilliantsolution/downloads/Lucky-Patcher-Official-8.5.2.apk"><h1>Скачать</h1></a>
 
-
-<a href="https://yadi.sk/i/8TeF77BJo9o9FA">Прочее...</a>
+<a href="https://yadi.sk/i/p1USbse0eyGPNA">Прочее...</a>
