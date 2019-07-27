@@ -1,4 +1,4 @@
-# Настройка корня на BlueStacks версии 3.50.66.2547
+# Настройка корня на BlueStacks
 
 <img src="https://github.com/ek75/Xcraft/blob/master/2019-07-28_01-32-28.png">
 
