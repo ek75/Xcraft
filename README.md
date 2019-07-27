@@ -17,7 +17,3 @@ LuckyPatcher apk для импорта в BlueStacks
 
 
 <a href="https://yadi.sk/i/8TeF77BJo9o9FA">Прочее...</a>
-
-
-
-<h5>Репозиторий загрузок</h5>
